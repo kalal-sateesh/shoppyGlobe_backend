@@ -10,7 +10,7 @@
 
 3.Install the dependencies using the command npm install
 
-# npm run dev
+# npm start
 
 4.Run the project on your local using npm start
 
