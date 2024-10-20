@@ -16,4 +16,4 @@
 
 ### Git Repo Link
 
-[View the repository here]()
+[View the repository here](https://github.com/kalal-sateesh/shoppyGlobe_backend)
